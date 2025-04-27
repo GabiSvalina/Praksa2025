@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+    
+    <table>
+        <tr>
+            <th>Endpoint</th>
+            <th>Metoda</th>
+            <th class="Opis" colspan="2">Opis</th>
+        </tr>
+        <tr>
+            <td rowspan="4">/users</td>
+            <td rowspan="2">GET</td>
+            <td rowspan="2">Dohvaća listu svih korisnika</td>       
+        </tr>
+        <tr></tr>
+
+        <tr>
+            <td>POST</td>
+            <td>Kreira novog korisnika</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>Briše određenog korisnika</td>
+        </tr>
+        <tr>
+            <td>/products</td>
+            <td>GET</td>
+            <td>Dohvaća listu svih proizvoda</td>
+        </tr>
+        <tr>
+            <td>/orders</td>
+            <td colspan="2"><ul>
+                <li>Pregled svih narudžbi</li>
+                <li>Dodaj novu narudžbu</li>
+                <li>Ažuriraj postojeću narudžbu</li>
+            </ul></td>
+        </tr>
+    </table>
+
+    <form>
+
+      <label for="fname">Ime:</label><br>
+      <input type="text" id="fname" name="fname" required><br>
+
+      <label for="lname">Prezime:</label><br>
+      <input type="text" id="lname" name="lname" disabled><br>
+
+      <label for="mail">Email</label><br>
+      <input type="email" id="mail" name="mail"><br>
+
+      <label for="pass">Lozinka:</label><br>
+      <input type="password" id="pass" name="pass" required><br>
+
+      <label for="pass">Potvrdi lozinku</label><br>
+      <input type="password" id="pass" name="pass" required><br><br>
+
+      <input type="submit" value="Registriraj se"><br>
+
+
+    </form>
+
+</body>
+</html>

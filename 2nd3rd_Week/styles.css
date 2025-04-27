@@ -1,0 +1,60 @@
+table{
+    border: 0.2rem solid black;
+    background-color: hsl(100, 50%, 80%)
+}
+
+body{
+    background-color: hsl(342 53% 69%)
+}
+
+th{
+    border: 0.1rem solid red;
+}
+
+td{
+    border: 0.1rem solid forestgreen;
+}
+
+tr{
+    height: 1.3rem;
+}
+
+.Opis{
+    color: chocolate;
+    text-align: center;
+}
+
+th:nth-child(n){
+    background-color: rgb(167, 211, 184);
+}
+
+tr:nth-child(2){
+    background-color: rgb(204, 218, 143);
+}
+tr:nth-child(4){
+    background-color: rgb(241, 186, 65);
+}
+
+tr:nth-child(5){
+    background-color: rgb(65, 91, 241);
+}
+
+tr:nth-child(6){
+    background-color: rgb(29, 35, 66);
+}
+
+tr:nth-child(7){
+    background-color: rgb(250, 39, 110);
+}
+
+label:hover{
+    background-color: rgb(190, 105, 207);
+}
+
+input:focus{
+    background-color: rgb(220, 228, 179);
+}
+
+input:disabled{
+    background-color: rgb(185, 11, 11);
+}

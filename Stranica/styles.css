@@ -1,0 +1,228 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/background2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbar {
+    background: hsl(205, 77%, 78%);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 50px;
+    position: relative;
+}
+
+#navbar-logo {
+    background-image: linear-gradient(to top, #0a0f4e 0%, #7281d8 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: none;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.navbar-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+}
+
+.navbar-item {
+    position: relative; /* !!! jako važno za dropdown */
+    height: 80px;
+}
+
+.navbar-links {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 0 1rem;
+    height: 100%;
+}
+
+.navbar-links:hover {
+    color: #0a0f4e;
+    transition: all 0.3s ease;
+}
+
+.sub-menu-1 {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: hsl(229, 77%, 68%);
+    border-radius: 8px;
+    padding: 10px 0;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.sub-menu-1 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sub-menu-1 li {
+    padding: 10px 20px;
+}
+
+.sub-menu-1 li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sub-menu-1 li a:hover {
+    color: #0a0f4e;
+}
+
+/* Hover efekt samo na "Atrakcije" */
+.navbar-item:hover .sub-menu-1 {
+    display: block;
+}
+
+.sub-menu-2 {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: hsl(229, 77%, 68%);
+    border-radius: 8px;
+    padding: 10px 0;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.sub-menu-2 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sub-menu-2 li {
+    padding: 10px 20px;
+}
+
+.sub-menu-2 li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sub-menu-2 li a:hover {
+    color: #0a0f4e;
+}
+
+/* Hover efekt samo na "Atrakcije" */
+.navbar-item:hover .sub-menu-2 {
+    display: block;
+}
+
+.sub-menu-3 {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: hsl(229, 77%, 68%);
+    border-radius: 8px;
+    padding: 10px 0;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.sub-menu-3 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sub-menu-3 li {
+    padding: 10px 20px;
+}
+
+.sub-menu-3 li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sub-menu-3 li a:hover {
+    color: #0a0f4e;
+}
+
+/* Hover efekt samo na "Atrakcije" */
+.navbar-item:hover .sub-menu-3 {
+    display: block;
+}
+
+.sub-menu-4 {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: hsl(229, 77%, 68%);
+    border-radius: 8px;
+    padding: 10px 0;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.sub-menu-4 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sub-menu-4 li {
+    padding: 10px 20px;
+}
+
+.sub-menu-4 li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sub-menu-4 li a:hover {
+    color: #0a0f4e;
+}
+
+/* Hover efekt samo na "Atrakcije" */
+.navbar-item:hover .sub-menu-4 {
+    display: block;
+}
+
+footer{
+    background-color: hsl(229, 77%, 68%);
+    color: #192486;
+    text-align: center;
+    height: 3rem;
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    color: #fff;
+}
