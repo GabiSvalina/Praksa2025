@@ -1,0 +1,38 @@
+Smjer A Drežnička - Tibljaši - Petrci - Drenova
+Smjer B Denova - Petrci - Tibljaši - Osječka (crkva)
+Osječka crkva  - Sljedeći polasci: 04:45, 05:25, 06:15
+Škurinje škola - Sljedeći polasci: 04:47, 05:27, 06:17
+Škurinjska cesta I  - Sljedeći polasci: 04:48, 05:29, 06:19
+Škurinje spomenik - Sljedeći polasci: 04:50, 05:31, 06:21
+Tibljaši  - Sljedeći polasci: 04:52, 05:34, 06:24
+Vozišće okret  - Sljedeći polasci: 07:25, 11:35, 12:20
+Gornji Marinići - Sljedeći polasci: 07:30, 11:40, 12:25
+Stupari 2 Bakardi - Sljedeći polasci: 04:54, 05:36, 06:26
+Petrci I - Sljedeći polasci: 04:55, 05:37, 06:27
+Petrci - Sljedeći polasci: 04:57, 05:40, 06:30
+Kablari  - Sljedeći polasci: 04:59, 05:43, 06:33
+Kablarska cesta  - Sljedeći polasci: 05:00, 05:44, 06:34
+B.Francetića  - Sljedeći polasci: 05:01, 05:45, 06:35
+B.Francetića - Tonići - Sljedeći polasci: 05:02, 05:46, 06:36
+B.Francetića - Pešćevac - Sljedeći polasci: 05:03, 05:47, 06:37
+Benaši - B. Francetića  - Sljedeći polasci: 05:03, 05:48, 06:38
+Drenova - Sljedeći polasci: 05:05, 05:50, 06:40
+Drenova - Sljedeći polasci: 05:05, 05:50, 06:45
+Benaši - B. Francetića - Sljedeći polasci: 05:06, 05:51, 06:46
+B.Francetića - Pešćevac  - Sljedeći polasci: 05:07, 05:52, 06:47
+B.Francetića - Tonići  - Sljedeći polasci: 05:07, 05:53, 06:47
+B.Francetića - Sljedeći polasci: 05:08, 05:54, 06:48
+Kablarska cesta - Sljedeći polasci: 05:09, 05:55, 06:49
+Kablari  - Sljedeći polasci: 05:10, 05:56, 06:50
+Petrci - Sljedeći polasci: 05:12, 05:59, 06:52
+Petrci - Blažići  - Sljedeći polasci: 05:13, 06:00, 06:53
+Petrci I - Sljedeći polasci: 05:14, 06:01, 06:54
+Stupari 2 Bakardi - Sljedeći polasci: 05:15, 06:03, 06:55
+Tibljaši  - Sljedeći polasci: 05:17, 06:05, 06:57
+Škurinjska cesta II - Sljedeći polasci: 05:19, 06:07, 06:59
+Škurinje spomenik - Sljedeći polasci: 05:19, 06:08, 06:59
+Škurinjska cesta I  - Sljedeći polasci: 05:21, 06:10, 07:01
+Škurinje škola - Sljedeći polasci: 05:22, 06:11, 07:02
+Osječka - Crkva - Sljedeći polasci: 05:23, 06:13, 07:03
+Osječka - Drežnička - Sljedeći polasci: 05:23, 06:13, 07:03
+Osječka crkva  - Sljedeći polasci: 05:25, 06:15, 07:05

@@ -1,0 +1,52 @@
+Smjer A Jelačićev trg - Bezjaki
+Smjer B Bezjaki -  Jelačićev trg
+Delta - Sljedeći polasci: 04:40, 05:35, 06:35
+Palazzo Modello 1 (Trg RH) - Sljedeći polasci: 04:43, 05:38, 06:39
+Jadrolinija (Riječki neboder) - Sljedeći polasci: 04:43, 05:39, 06:40
+Brajda - Sljedeći polasci: 04:44, 05:40, 06:41
+Željeznički kolodvor  - Sljedeći polasci: 04:45, 05:41, 06:42
+KBC Rijeka - Sljedeći polasci: 04:45, 05:41, 06:43
+Mlaka - Sljedeći polasci: 04:46, 05:42, 06:44
+Novi List - Sljedeći polasci: 04:46, 05:43, 06:45
+Toretta - Sljedeći polasci: 04:48, 05:45, 06:47
+Krnjevo Zametska - Sljedeći polasci: 04:49, 05:46, 06:49
+Zametska - Sljedeći polasci: 04:50, 05:48, 06:50
+Baredice - Sljedeći polasci: 04:52, 05:50, 06:52
+Zamet - Bože Vidasa - Sljedeći polasci: 13:29, 16:49
+Zamet  dvorana - Sljedeći polasci: 13:31, 16:51
+Zamet  dvorana - Sljedeći polasci: 13:30, 16:50
+Zamet - Bože Vidasa - Sljedeći polasci: 13:33, 16:53
+Zamet - Braće Monjac - Sljedeći polasci: 04:52, 05:50, 06:53
+Braće Mohorić - Sljedeći polasci: 04:54, 05:52, 06:55
+Nova Cesta - B.Mohorić - Sljedeći polasci: 04:54, 05:53, 06:56
+Fantini - Sljedeći polasci: 04:55, 05:54, 06:58
+Pilepići - Sljedeći polasci: 04:56, 05:55, 06:59
+Drnjevići - Sljedeći polasci: 04:57, 05:57, 07:01
+Mulci - Sljedeći polasci: 04:58, 05:58, 07:02
+Pužići - Sljedeći polasci: 04:59, 05:58, 07:03
+Trampov breg - Sljedeći polasci: 04:59, 05:59, 07:04
+Bezjaki - Sljedeći polasci: 05:00, 06:00, 07:05
+Bezjaki - Sljedeći polasci: 05:00, 06:00, 07:10
+Trampov breg - Sljedeći polasci: 05:01, 06:01, 07:11
+Pužići - Sljedeći polasci: 05:02, 06:02, 07:12
+Mulci - Sljedeći polasci: 05:04, 06:03, 07:14
+Drnjevići  - Sljedeći polasci: 05:05, 06:04, 07:15
+Pilepići - Sljedeći polasci: 05:07, 06:06, 07:18
+Fantini  - Sljedeći polasci: 05:08, 06:07, 07:19
+Braće Mohorić - Sljedeći polasci: 05:10, 06:08, 07:21
+Zamet - Braće Monjac - Sljedeći polasci: 05:12, 06:10, 07:23
+Zamet - Bože Vidasa - Sljedeći polasci: 07:24, 12:19
+Zamet  dvorana - Sljedeći polasci: 07:25, 12:20
+Zamet - Bože Vidasa - Sljedeći polasci: 07:26, 12:21
+Baredice - Sljedeći polasci: 05:14, 06:12, 07:28
+Zametska - Sljedeći polasci: 05:15, 06:12, 07:29
+Krnjevo Zvonimirova - Sljedeći polasci: 05:18, 06:15, 07:32
+Toretta - Sljedeći polasci: 05:19, 06:16, 07:33
+Novi List - Sljedeći polasci: 05:21, 06:18, 07:35
+Mlaka - Sljedeći polasci: 05:23, 06:19, 07:38
+KBC Rijeka - Sljedeći polasci: 05:24, 06:20, 07:39
+Željeznički kolodvor  - Sljedeći polasci: 05:25, 06:21, 07:40
+Brajda - Sljedeći polasci: 05:26, 06:22, 07:41
+Žabica - Sljedeći polasci: 05:27, 06:22, 07:42
+Tržnica - Sljedeći polasci: 05:29, 06:24, 07:44
+Delta - Sljedeći polasci: 05:30, 06:25, 07:45

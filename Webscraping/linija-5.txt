@@ -1,0 +1,46 @@
+Smjer A Jelačićev trg - Drenova
+Smjer B Drenova - Jelačićev trg
+Delta - Sljedeći polasci: 04:40, 04:55, 05:15
+Palazzo Modello 1 (Trg RH) - Sljedeći polasci: 04:44, 05:00, 05:20
+Jadrolinija (Riječki neboder) - Sljedeći polasci: 04:45, 05:01, 05:21
+Manzonijeva - Sljedeći polasci: 04:45, 05:02, 05:22
+1. maja - Sljedeći polasci: 04:46, 05:03, 05:23
+Osječka - F.Kresnika - Sljedeći polasci: 04:47, 05:04, 05:24
+Osječka - Mihačeva Draga - Sljedeći polasci: 04:48, 05:05, 05:25
+Osječka Lipa - Sljedeći polasci: 04:49, 05:07, 05:27
+Osječka zaobilaznica - Sljedeći polasci: 04:50, 05:08, 05:28
+Osječka - Drežnička - Sljedeći polasci: 04:51, 05:09, 05:29
+Osječka crkva  - Sljedeći polasci: 04:52, 05:10, 05:30
+I.L.Ribara - S.Vukelića - Sljedeći polasci: 04:52, 05:11, 05:31
+I.L.Ribara - M.Rustambega - Sljedeći polasci: 04:53, 05:11, 05:31
+Staro okretište - Sljedeći polasci: 04:54, 05:12, 05:32
+I.L.Ribara - I.Žorža - Sljedeći polasci: 04:55, 05:13, 05:33
+Bok - Sljedeći polasci: 04:55, 05:14, 05:34
+Severinska - Sljedeći polasci: 04:56, 05:15, 05:35
+OŠ F. Franković - Sljedeći polasci: 04:58, 05:17, 05:37
+Braće Hlača - Sljedeći polasci: 04:58, 05:18, 05:38
+Frkaševo - Sljedeći polasci: 04:59, 05:19, 05:39
+Drenova - Sljedeći polasci: 05:00, 05:20, 05:40
+Drenova - Sljedeći polasci: 05:00, 05:20, 05:40
+Frkaševo - Sljedeći polasci: 05:01, 05:21, 05:41
+Braće Hlača - Sljedeći polasci: 05:02, 05:22, 05:42
+OŠ F. Franković - Sljedeći polasci: 05:04, 05:24, 05:43
+Severinska - Sljedeći polasci: 05:06, 05:26, 05:46
+Bok - Sljedeći polasci: 05:07, 05:27, 05:47
+I.L.Ribara - I.Žorža - Sljedeći polasci: 05:08, 05:28, 05:48
+Staro okretište - Sljedeći polasci: 05:10, 05:30, 05:49
+I.L.Ribara - M.Rustambega - Sljedeći polasci: 05:11, 05:31, 05:50
+I.L.Ribara - S.Vukelića - Sljedeći polasci: 05:12, 05:32, 05:51
+Osječka - Crkva - Sljedeći polasci: 05:13, 05:33, 05:52
+Osječka - Drežnička - Sljedeći polasci: 05:14, 05:34, 05:53
+Osječka zaobilaznica - Sljedeći polasci: 05:16, 05:36, 05:55
+Osječka Lipa - Sljedeći polasci: 05:17, 05:37, 05:56
+Osječka - C.Ilijassich - Sljedeći polasci: 05:18, 05:38, 05:57
+Osječka - Mihačeva Draga - Sljedeći polasci: 05:19, 05:39, 05:58
+Osječka - F.Kresnika - Sljedeći polasci: 05:20, 05:40, 05:59
+1. maja - Sljedeći polasci: 05:22, 05:42, 06:00
+Nikole Tesle - Sljedeći polasci: 05:24, 05:44, 06:02
+Brajda - Sljedeći polasci: 05:25, 05:45, 06:04
+Žabica - Sljedeći polasci: 05:26, 05:46, 06:05
+Tržnica - Sljedeći polasci: 05:29, 05:49, 06:07
+Delta - Sljedeći polasci: 05:30, 05:50, 06:08

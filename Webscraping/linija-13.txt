@@ -1,0 +1,20 @@
+Smjer A Delta - Pašac - Grohovo
+Smjer B Grohovo - Pašac - Delta
+Delta - Sljedeći polasci: 05:55, 06:45, 07:15
+Banska vrata - Sljedeći polasci: 05:58, 06:48, 07:18
+Donja Orehovica - Sljedeći polasci: 06:00, 06:50, 07:20
+Gornja Orehovica - Sljedeći polasci: 06:01, 06:51, 07:21
+Balda Fućka - Sljedeći polasci: 06:03, 06:53, 07:23
+Pašac 1 križanje - Sljedeći polasci: 06:05, 06:55, 07:25
+Pašac 2 centar  - Sljedeći polasci: 06:06, 06:56, 07:26
+Grohovski put  - Sljedeći polasci: 06:09, 06:59, 07:29
+Grohovo  - Sljedeći polasci: 06:10, 07:00, 07:30
+Grohovo  - Sljedeći polasci: 06:10, 07:00, 07:30
+Pašac 2 centar  - Sljedeći polasci: 06:13, 07:03, 07:33
+Pašac 1 križanje - Sljedeći polasci: 06:14, 07:04, 07:34
+Balda Fućka - Sljedeći polasci: 06:15, 07:05, 07:35
+Gornja Orehovica - Sljedeći polasci: 06:16, 07:06, 07:36
+Donja Orehovica - Sljedeći polasci: 06:18, 07:08, 07:38
+Banska vrata - Sljedeći polasci: 06:22, 07:12, 07:42
+Fiumara A - Sljedeći polasci: /
+Delta - Sljedeći polasci: 06:25, 07:15, 07:45

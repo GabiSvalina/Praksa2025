@@ -1,0 +1,20 @@
+Smjer A Sv. Katarina - Vrh Pulca
+Smjer B Vrh Pulca - Sv. Katarina
+Sv.Katarina  - Sljedeći polasci: 06:30, 06:55, 07:15
+Sv.Katarina.II  - Sljedeći polasci: 06:31, 06:56, 07:16
+Sv.Katarina.I  - Sljedeći polasci: 06:33, 06:57, 07:17
+Brašćine - Sljedeći polasci: /
+Internacionalni brigada - Sljedeći polasci: 06:37, 07:00, 07:20
+Galenski laboratorij - Sljedeći polasci: 06:39, 07:02, 07:22
+Pulac I - Sljedeći polasci: 06:40, 07:03, 07:23
+Pulac II - Sljedeći polasci: 06:42, 07:04, 07:24
+Vrh Pulca - Sljedeći polasci: 06:43, 07:05, 07:25
+Vrh Pulca - Sljedeći polasci: 06:10, 06:45, 07:05
+Pulac II - Sljedeći polasci: 06:12, 06:47, 07:07
+Pulac I - Sljedeći polasci: 06:13, 06:48, 07:08
+Galenski laboratorij - Sljedeći polasci: 06:14, 06:48, 07:08
+Internacionalni brigada - Sljedeći polasci: 06:16, 06:50, 07:10
+Brašćine - Sljedeći polasci: 06:18, 06:52, 07:12
+Sv.Katarina.I  - Sljedeći polasci: 06:19, 06:53, 07:13
+Sv.Katarina.II  - Sljedeći polasci: 06:21, 06:54, 07:14
+Sv.Katarina  - Sljedeći polasci: 06:22, 06:55, 07:15

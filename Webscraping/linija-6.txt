@@ -1,0 +1,44 @@
+Smjer A Podvežica - Novo naselje
+Smjer B Novo naselje - Podvežica
+Podvežica - Sljedeći polasci: 05:10, 05:35, 06:00
+Podvežica  centar - Sljedeći polasci: 05:11, 05:36, 06:01
+OŠ Vežica - Sljedeći polasci: 05:12, 05:37, 06:02
+Kvaternikova Tihovac - Sljedeći polasci: 05:14, 05:39, 06:04
+Kvaternikova - Sljedeći polasci: 05:15, 05:40, 06:05
+Kumičićeva - Sljedeći polasci: 05:16, 05:41, 06:06
+Sušački neboder - Sljedeći polasci: 05:18, 05:44, 06:08
+Fiumara A - Sljedeći polasci: 05:21, 05:46, 06:11
+Palazzo Modello 1 (Trg RH) - Sljedeći polasci: 05:23, 05:49, 06:13
+Jadrolinija (Riječki neboder) - Sljedeći polasci: 05:24, 05:50, 06:14
+Brajda - Sljedeći polasci: 05:25, 05:51, 06:15
+Željeznički kolodvor  - Sljedeći polasci: 05:27, 05:52, 06:17
+Potok - Sljedeći polasci: 05:28, 05:53, 06:18
+Štranga - Sljedeći polasci: 05:29, 05:55, 06:19
+Tehnički fakultet - Sljedeći polasci: 05:30, 05:56, 06:20
+Studentski dom - Sljedeći polasci: 05:31, 05:57, 06:21
+Čandekova - Sljedeći polasci: 05:33, 05:58, 06:23
+Turnić - Sljedeći polasci: 05:35, 06:01, 06:25
+Dom umirovljenika Turnić - Sljedeći polasci: 05:37, 06:03, 06:27
+G.Carabino - Sljedeći polasci: 05:39, 06:05, 06:29
+Vidovićeva - Sljedeći polasci: 05:40, 06:06, 06:30
+Krnjevo NN - Sljedeći polasci: 05:41, 06:07, 06:31
+Krnjevo NN - Sljedeći polasci: 05:05, 05:25, 05:50
+Nova cesta - Sljedeći polasci: 05:06, 05:26, 05:51
+Turnić - Sljedeći polasci: 05:08, 05:28, 05:53
+Čandekova - Sljedeći polasci: 05:11, 05:30, 05:56
+Studentski dom - Sljedeći polasci: 05:12, 05:31, 05:57
+Tehnički fakultet - Sljedeći polasci: 05:13, 05:32, 05:58
+Štranga - Sljedeći polasci: 05:14, 05:33, 05:59
+Potok - Sljedeći polasci: 05:17, 05:35, 06:01
+Željeznički kolodvor  - Sljedeći polasci: 05:18, 05:36, 06:02
+Brajda - Sljedeći polasci: 05:19, 05:37, 06:03
+Žabica - Sljedeći polasci: 05:20, 05:38, 06:05
+Tržnica - Sljedeći polasci: 05:22, 05:40, 06:07
+Fiumara  B - Sljedeći polasci: 05:24, 05:41, 06:08
+Piramida - Sljedeći polasci: 05:26, 05:43, 06:10
+Kumičićeva - Sljedeći polasci: 05:27, 05:44, 06:11
+Kvaternikova - Sljedeći polasci: 05:28, 05:45, 06:12
+Kvaternikova Tihovac - Sljedeći polasci: 05:29, 05:46, 06:14
+OŠ Vežica - Sljedeći polasci: 05:31, 05:47, 06:15
+Podvežica  centar - Sljedeći polasci: 05:32, 05:48, 06:16
+Podvežica - Sljedeći polasci: 05:33, 05:49, 06:17

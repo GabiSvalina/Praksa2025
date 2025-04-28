@@ -1,0 +1,42 @@
+Smjer A (Trsat) - Kampus - Torpedo
+Smjer B Torpedo - Trsat - Kampus
+Kampus  - Sljedeći polasci: 05:30, 06:30, 07:30
+KBC Sušak - Sljedeći polasci: 05:32, 06:32, 07:32
+Mihanovićeva - Sljedeći polasci: 05:33, 06:33, 07:33
+Pošta - Sljedeći polasci: 05:34, 06:34, 07:34
+Paris A - Sljedeći polasci: 05:36, 06:36, 07:36
+Vodosprema - Sljedeći polasci: 05:37, 06:37, 07:37
+Bobijevo - Sljedeći polasci: 05:39, 06:39, 07:39
+HZZ - Sljedeći polasci: 05:41, 06:41, 07:41
+Fiumara A - Sljedeći polasci: 05:44, 06:44, 07:44
+Palazzo Modello 1 (Trg RH) - Sljedeći polasci: 05:48, 06:17, 06:48
+Jadrolinija (Riječki neboder) - Sljedeći polasci: 05:49, 06:18, 06:49
+Brajda - Sljedeći polasci: 05:50, 06:20, 06:50
+Željeznički kolodvor  - Sljedeći polasci: 05:51, 06:21, 06:51
+KBC Rijeka - Sljedeći polasci: 05:52, 06:22, 06:52
+Mlaka - Baračeva - Sljedeći polasci: 05:54, 06:24, 06:54
+Baračeva I - Sljedeći polasci: 05:57, 06:25, 06:57
+Baračeva II - Sljedeći polasci: 05:58, 06:28, 06:58
+Torpedo - Sljedeći polasci: 06:00, 06:30, 07:00
+Torpedo - Sljedeći polasci: 06:00, 06:30, 07:00
+Baračeva II - Sljedeći polasci: 06:01, 06:31, 07:01
+Baračeva I - Sljedeći polasci: 06:03, 06:34, 07:03
+Mlaka - Sljedeći polasci: 06:05, 06:36, 07:06
+KBC Rijeka - Sljedeći polasci: 06:06, 06:38, 07:07
+Željeznički kolodvor  - Sljedeći polasci: 06:07, 06:39, 07:08
+Brajda - Sljedeći polasci: 06:07, 06:40, 07:09
+Žabica - Sljedeći polasci: 06:08, 06:41, 07:10
+Tržnica - Sljedeći polasci: 06:10, 06:44, 07:12
+Titov trg - Sljedeći polasci: 06:12, 07:14, 08:24
+HZZ - Sljedeći polasci: 06:14, 07:17, 08:27
+Mažuranićev trg - Sljedeći polasci: 06:16, 07:19, 08:29
+Bobijevo - Sljedeći polasci: 06:17, 07:20, 08:30
+Vodosprema - Sljedeći polasci: 06:18, 07:21, 08:31
+Paris - Sljedeći polasci: 06:19, 07:22, 08:32
+J.Rakovca - Sljedeći polasci: 06:20, 07:23, 08:33
+Vidikovac - Sljedeći polasci: 06:20, 07:24, 08:34
+Trsat crkva  - Sljedeći polasci: 06:21, 07:26, 08:36
+Trsat - Sljedeći polasci: 06:22, 07:27, 08:37
+Trsat groblje - Sljedeći polasci: 06:23, 07:28, 08:38
+Kampus 1 Sv.avenija - Sljedeći polasci: 06:24, 07:29, 08:39
+Kampus  - Sljedeći polasci: 06:25, 07:30, 08:40

@@ -1,0 +1,56 @@
+Smjer A Trsat - Srdoči
+Smjer B Srdoči - Trsat
+Trsat - Sljedeći polasci: 05:05, 05:25, 05:45
+Trsat groblje - Sljedeći polasci: 05:06, 05:26, 05:46
+Slavka Krautzeka I - Sljedeći polasci: 05:08, 05:28, 05:48
+Slavka Krauzeka II - Sljedeći polasci: 05:09, 05:29, 05:49
+Teta Roža - Sljedeći polasci: 05:10, 05:30, 05:50
+Kumičićeva - Sljedeći polasci: 05:11, 05:31, 05:51
+Sušački neboder - Sljedeći polasci: 05:14, 05:33, 05:54
+Fiumara A - Sljedeći polasci: 05:16, 05:35, 05:56
+Palazzo Modello 1 (Trg RH) - Sljedeći polasci: 05:18, 05:37, 05:58
+Jadrolinija (Riječki neboder) - Sljedeći polasci: 05:19, 05:38, 05:59
+Brajda - Sljedeći polasci: 05:20, 05:39, 06:00
+Željeznički kolodvor  - Sljedeći polasci: 05:21, 05:40, 06:01
+KBC Rijeka - Sljedeći polasci: 05:22, 05:41, 06:02
+Mlaka - Sljedeći polasci: 05:23, 05:42, 06:03
+Novi List - Sljedeći polasci: 05:24, 05:43, 06:04
+Toretta - Sljedeći polasci: 05:27, 05:45, 06:07
+Krnjevo Zametska - Sljedeći polasci: 05:29, 05:47, 06:09
+Zametska - Sljedeći polasci: 05:31, 05:49, 06:11
+Baredice - Sljedeći polasci: 05:32, 05:50, 06:12
+Zamet centar - Sljedeći polasci: 05:33, 05:51, 06:13
+I.Ćikovića Belog - Sljedeći polasci: 05:34, 05:52, 06:14
+Diračje - Sljedeći polasci: 05:36, 05:54, 06:16
+Dražice - Sljedeći polasci: 05:38, 05:56, 06:18
+Martinkovac  - Sljedeći polasci: 05:41, 05:58, 06:21
+Srdoči  - Sljedeći polasci: 05:43, 06:00, 06:23
+Srdoči  - Sljedeći polasci: 05:00, 05:20, 05:45
+Blečići - Sljedeći polasci: 05:01, 05:21, 05:46
+Martinkovac  - Sljedeći polasci: 05:03, 05:23, 05:48
+Dražice - Sljedeći polasci: 05:05, 05:25, 05:50
+Diračje - Sljedeći polasci: 05:07, 05:27, 05:52
+I.Ćikovića Belog - Sljedeći polasci: 05:08, 05:28, 05:53
+Zamet centar  - Sljedeći polasci: 05:10, 05:30, 05:55
+Baredice - Sljedeći polasci: 05:11, 05:31, 05:56
+Zametska - Sljedeći polasci: 05:12, 05:32, 05:57
+Krnjevo Zvonimirova - Sljedeći polasci: 05:15, 05:35, 06:00
+Toretta - Sljedeći polasci: 05:16, 05:36, 06:01
+Novi List - Sljedeći polasci: 05:18, 05:38, 06:03
+Mlaka - Sljedeći polasci: 05:21, 05:41, 06:06
+KBC Rijeka - Sljedeći polasci: 05:22, 05:42, 06:07
+Željeznički kolodvor  - Sljedeći polasci: 05:23, 05:43, 06:08
+Brajda - Sljedeći polasci: 05:24, 05:44, 06:09
+Žabica - Sljedeći polasci: 05:26, 05:46, 06:11
+Tržnica - Sljedeći polasci: 05:28, 05:48, 06:13
+Fiumara  B - Sljedeći polasci: 05:29, 05:49, 06:14
+Piramida - Sljedeći polasci: 05:31, 05:51, 06:16
+Kumičićeva - Sljedeći polasci: 05:32, 05:52, 06:17
+Teta Roža - Sljedeći polasci: 05:33, 05:53, 06:18
+Mihanovićeva - Sljedeći polasci: 05:34, 05:54, 06:19
+Pošta - Sljedeći polasci: 05:35, 05:55, 06:20
+Paris - Sljedeći polasci: 05:36, 05:56, 06:21
+J.Rakovca - Sljedeći polasci: 05:37, 05:57, 06:22
+Vidikovac - Sljedeći polasci: 05:38, 05:58, 06:23
+Trsat crkva  - Sljedeći polasci: 05:39, 05:59, 06:24
+Trsat - Sljedeći polasci: 05:40, 06:00, 06:25
