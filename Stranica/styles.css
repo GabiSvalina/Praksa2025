@@ -5,12 +5,130 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-body {
+.header {
     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/background2.jpg);
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.header-rijeka{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/rijeka.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%; 
+}
+
+.header-korzo-stari-grad{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/stari-gradjpg.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%;  
+}
+
+.header-rijecki-tunel{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/rijecki-tunel.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%;  
+}
+
+.header-susak-trsat{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/trsat.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%;  
+}
+
+.header-autobusne-linije{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/background2.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%; 
+}
+
+.header-parking{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/parkiraliste.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%; 
+}
+
+.header-hoteli{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/hotel2.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%; 
+}
+
+.header-luksuzni-hoteli{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/hotel1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%; 
+}
+
+.header-karneval{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/karneval1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%;  
+}
+
+.header-gastronomija{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/gastronomija1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%;  
+}
+
+.header-plaze{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/plaže1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%;  
+}
+
+.header-shopping{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/shopping2.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%;  
+}
+
+.header-vrijeme{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/vrijeme.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 70vh;
+    width: 100%;  
 }
 
 .navbar {
@@ -80,7 +198,7 @@ body {
     position: absolute;
     top: 100%;
     left: 0;
-    background: hsl(229, 77%, 68%);
+    background: hsl(205, 77%, 78%);
     border-radius: 8px;
     padding: 10px 0;
     box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
@@ -114,7 +232,7 @@ body {
     position: absolute;
     top: 100%;
     left: 0;
-    background: hsl(229, 77%, 68%);
+    background: hsl(205, 77%, 78%);
     border-radius: 8px;
     padding: 10px 0;
     box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
@@ -148,7 +266,7 @@ body {
     position: absolute;
     top: 100%;
     left: 0;
-    background: hsl(229, 77%, 68%);
+    background: hsl(205, 77%, 78%);
     border-radius: 8px;
     padding: 10px 0;
     box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
@@ -182,7 +300,7 @@ body {
     position: absolute;
     top: 100%;
     left: 0;
-    background: hsl(229, 77%, 68%);
+    background: hsl(205, 77%, 78%);
     border-radius: 8px;
     padding: 10px 0;
     box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
@@ -212,17 +330,223 @@ body {
 }
 
 footer{
-    background-color: hsl(229, 77%, 68%);
+    background-color: hsl(205, 77%, 78%);
     color: #192486;
     text-align: center;
     height: 3rem;
 }
 
-.title{
+.text-box{
+    width: 90%;
+    color: #fff;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 80px;
-    color: #fff;
+    text-align: center;
 }
+
+.text-box h1{
+    font-size: 62px;
+}
+
+.text-box h2{
+    font-size: 42px;
+}
+
+.hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    font-size: 30px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    padding: 10px;
+    margin: 20px;
+}
+
+.hero-btn:hover{
+    border: 1px solid #7281d8;
+    background: #7281d8;
+    transition: 1s;
+}
+
+/*ATRAKCIJE*/
+.atrakcije{
+   width: 80%;
+   margin: auto;
+   text-align: center;
+   padding-top: 100px; 
+}
+
+h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
+
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.atrakcije-col{
+    flex-basis: 31%;
+    background: #e1eef0;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+h3{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.atrakcije-col:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+
+.atrakcije-col img{
+    width: 100%;
+    height: 80%;
+    border-radius: 10px;
+    display: block;
+}
+
+
+/*ZABAVA*/
+.zabava{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.zabava-col{
+    flex-basis: 42%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.zabava-col img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.layer{
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+}
+
+.layer:hover{
+    background: rgba(225, 238, 240, 0.7);
+}
+
+.layer h3{
+    width: 100%;
+    font-weight: 500;
+    color: #192486;
+    font-size: 26px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.layer:hover h3{
+    bottom: 49%;
+    opacity: 1;
+}
+
+/*SMJESTAJ*/
+
+.smjestaj{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;   
+}
+
+.smjestaj-col{
+    flex-basis: 45%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+
+.smjestaj-col img{
+    width: 100%;
+    height: 80%;
+    border-radius: 10px;
+    display: block;
+}
+
+.smjestaj-col h3{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.smjestaj-col:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+
+/*Rijeka*/
+
+.rijeka{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+}
+
+.column {
+    float: none;
+    width: 100%;
+  }
+
+  .card {
+    background-color: rgba(225, 238, 240, 0.7);
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .card p{
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 36px;
+  }
+
+  .card h2{
+    font-size: 40px;
+  }
